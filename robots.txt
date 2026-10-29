@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://listoia21-pixel.github.io/pistachio-bakery/sitemap.xml
